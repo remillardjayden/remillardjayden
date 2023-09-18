@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @remillardjayden
-- 👀 I’m interested in gaming, coding, and learning more
-- 🌱 I’m currently expanding my knowledge on Ruby on Rails and Java
+# Howdy there buckaroo
 
 <!---
 remillardjayden/remillardjayden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
